@@ -62,5 +62,4 @@ func main() {
 		fmt.Printf("Result: %f\n", result)
 
 	}
-
 }
